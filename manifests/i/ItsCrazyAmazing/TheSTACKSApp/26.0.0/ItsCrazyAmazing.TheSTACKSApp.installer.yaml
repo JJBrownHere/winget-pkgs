@@ -7,10 +7,10 @@ InstallModes:
   - interactive
   - silent
 UpgradeBehavior: install
-ReleaseDate: 2026-09-29
+ReleaseDate: 2026-10-01
 Installers:
   - Architecture: x64
     InstallerUrl: https://windows.itscrazyamazing.com/The-STACKS-App-Setup-26.0.0.exe
-    InstallerSha256: CF004D35EFBB8E75FD70A3DC71AA1423CC3F072BE40674CD26580C33CC3A3477
+    InstallerSha256: 27E11337B81ABEFEDF1CAB8BACCF5918F67838D7ADAFC6BAA05AD9457EF31E9A
 ManifestType: installer
 ManifestVersion: 1.6.0
